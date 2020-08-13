@@ -10,6 +10,7 @@
 
 # production
 /build
+/slack
 
 # misc
 .DS_Store
